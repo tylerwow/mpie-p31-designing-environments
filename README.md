@@ -6,7 +6,7 @@ This repository includes a Unity project with some assets that you will use to c
 ## Task 1: Planning a level in space and time.
 Imagine this scenario: “You find yourself in abandoned underground military laboratory. As you progress through labs, corridors and storage areas, you start to feel you are not alone…”
 
-First of all, have a good look at the different corridor assets. These are some simple blocks that can be combined to create an indoor environment. While there are all part of the parent “Modular_Corridors” container for now, you can create copies, edit and group objects together to create an interactive environment. They slot together to make corridors rooms and doorways. 
+First of all, have a good look at the different corridor assets. These are some simple blocks that can be combined to create an indoor environment. You can create copies, edit, and group objects together to create an interactive environment. They slot together to make corridors rooms and doorways. 
 
 Roughly plan and sketch a map of the environment that contains 2 minutes of gameplay. Think carefully about the structure of the world you’re creating in relation to the above scenario. The environment should contain at least some of the following devices:
 
